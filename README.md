@@ -1,6 +1,13 @@
 # pythonZerotoHero
 
-Python - 100 days from novice to master
+# Requirement
+ 
+* PyCharam
+* Python 3.x.x
+* Windows 7(I am using) but you an do it on linux, Mac as well
+* Refer to SRC folder inside the fortnight pakage
+
+Python - Novice to Master
 Python application field and employment situation analysis
 # In short, Python is an "elegant", "explicit", and "simple" programming language.
 
